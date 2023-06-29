@@ -10,9 +10,10 @@ client_info={}
 connected = set()
 
 # Server data=======================================
-PORT = 53198
-BUFFER_REV = 5000
-TIME_OUT_CLIENT =60# 2 min
+SERVER_HOST = '192.168.100.134'
+PORT = 53199
+
+TIME_OUT_CLIENT =60
 TIME_OUT_SETTING_UPDATE =10
 
 #msql===============================================
